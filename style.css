@@ -28,8 +28,3 @@ h1{
 section{
     height: 100vh;
 }
-@media screen and (max-width: 830px){
-    h1{
-        font-size: 2rem;
-    }
-}
